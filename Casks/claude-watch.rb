@@ -1,6 +1,6 @@
 cask "claude-watch" do
-  version "0.0.7"
-  sha256 "abe8a70c1d812e66e0a228a3c9820cba481e21aec3b76fee857c3cb569f400e7"
+  version "0.0.8"
+  sha256 "bf3afcff2ada5781e4c7b2a003b9be4f02a1d7d67663c274b683e14b6f853ed1"
 
   url "https://github.com/htz/claude-watch/releases/download/v#{version}/claude-watch-darwin-arm64-#{version}.zip"
   name "Claude Watch"
